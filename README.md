@@ -1,3 +1,2 @@
 # PRESENTACION
-Tarea_1
-Soy Areli del Rocpio Morales Gómez, tengo 19 años, me encuentro cursando el 5to semestre de la carrera de Ing. en sistemas computacionales
+Soy Areli del Rocío Morales Gómez, tengo 19 años, actualmente me encuentro cursando el 5to semestre de la carrera de Ing. en sistemas computacionales. Se programar en Java pero me gustaría indagar más lenguajes de programación, me gusta aprender y mantenerme informada de las cosas, me interesa mucho la inteligencia artificial y me meta es llegar a tomar una maestria o un doctorado especializada en eso. 
